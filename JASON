@@ -1,0 +1,10 @@
+{
+  "Person_1": {
+    "Name": "Demo User",
+    "Status": "Clear",
+    "Age": 25,
+    "Gender": "Male",
+    "Address": "Sample Address",
+    "Cnic": "00000-0000000-0"
+  }
+}
